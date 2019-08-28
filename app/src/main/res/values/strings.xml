@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="item_recycler_main_movie_text_genre">Genre</string>
+    <string name="item_recycler_main_movie_text_duration">Duration</string>
+    <string name="item_recycler_main_movie_text_rating">Rating</string>
+    <string name="item_recycler_main_movie_button_buy_ticket">Buy Ticket</string>
+    <string name="movie_detail_text_synopsis">Synopsis</string>
+    <string name="movie_detail_button_buy_ticket">Buy Ticket</string>
+</resources>
