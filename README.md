@@ -1,5 +1,7 @@
 # MovieCatalogue
 
-![device-2019-08-28-164731_resize_small](https://user-images.githubusercontent.com/48062932/63846939-ff8a5f00-c9b6-11e9-98ed-42fa1aa1bbc1.jpg)
+A simple movie catalogue app with MVP architecture
 
-![device-2019-08-28-165017_resize_small](https://user-images.githubusercontent.com/48062932/63847040-2e083a00-c9b7-11e9-9869-113130ae5b8e.jpg)
+![device-2019-08-29-114820](https://user-images.githubusercontent.com/48062932/63911001-09fa3680-ca53-11e9-8fc2-edb218466ed0.png)
+
+![device-2019-08-29-114846](https://user-images.githubusercontent.com/48062932/63911002-0a92cd00-ca53-11e9-8cc8-e996c55b07a5.png)
