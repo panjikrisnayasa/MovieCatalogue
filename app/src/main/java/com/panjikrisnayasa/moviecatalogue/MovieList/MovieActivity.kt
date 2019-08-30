@@ -3,6 +3,7 @@ package com.panjikrisnayasa.moviecatalogue.MovieList
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.panjikrisnayasa.moviecatalogue.Model.MovieModel
 import com.panjikrisnayasa.moviecatalogue.R
 import kotlinx.android.synthetic.main.activity_main.*
 

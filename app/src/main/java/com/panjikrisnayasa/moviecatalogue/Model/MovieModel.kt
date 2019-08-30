@@ -1,25 +1,25 @@
-package com.panjikrisnayasa.moviecatalogue.MovieList
+package com.panjikrisnayasa.moviecatalogue.Model
 
 import android.os.Parcel
 import android.os.Parcelable
 
 data class MovieModel(
-    var poster: Int = 0,
-    var title: String? = "",
-    var ratingScore: Float = 0f,
-    var genre: String? = "",
-    var duration: String? = "",
-    var rating: String? = "",
-    var synopsis: String? = ""
+        var poster: Int = 0,
+        var title: String? = "",
+        var ratingScore: Float = 0f,
+        var genre: String? = "",
+        var duration: String? = "",
+        var rating: String? = "",
+        var synopsis: String? = ""
 ) : Parcelable {
     constructor(parcel: Parcel) : this(
-        parcel.readInt(),
-        parcel.readString(),
-        parcel.readFloat(),
-        parcel.readString(),
-        parcel.readString(),
-        parcel.readString(),
-        parcel.readString()
+            parcel.readInt(),
+            parcel.readString(),
+            parcel.readFloat(),
+            parcel.readString(),
+            parcel.readString(),
+            parcel.readString(),
+            parcel.readString()
     )
 
     override fun writeToParcel(parcel: Parcel, flags: Int) {

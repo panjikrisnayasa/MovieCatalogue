@@ -10,6 +10,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
+import com.panjikrisnayasa.moviecatalogue.Model.MovieModel
 import com.panjikrisnayasa.moviecatalogue.MovieDetail.MovieDetail
 import com.panjikrisnayasa.moviecatalogue.R
 

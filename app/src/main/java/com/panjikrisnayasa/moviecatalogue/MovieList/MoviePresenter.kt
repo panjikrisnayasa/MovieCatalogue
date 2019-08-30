@@ -1,5 +1,7 @@
 package com.panjikrisnayasa.moviecatalogue.MovieList
 
+import com.panjikrisnayasa.moviecatalogue.Model.MovieModel
+
 class MoviePresenter(private val view: MovieView) {
     fun getListMoviesData(): ArrayList<MovieModel> {
         val list = ArrayList<MovieModel>()
