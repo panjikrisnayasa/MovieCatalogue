@@ -133,7 +133,6 @@
         android:text="@string/item_recycler_main_movie_button_buy_ticket" />
 
     <View
-        android:id="@+id/view_item_recycler_main_movie_line"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_below="@id/button_item_recycler_main_movie_details"
